@@ -37,4 +37,3 @@ Projet découverte de npm et Webpack.
 
 ![Liste des jeux](cap1.png)
 ![Détail du jeu](cap2.png)
-
