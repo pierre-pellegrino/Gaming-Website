@@ -1,3 +1,4 @@
+
 # The Hyper Progame
 [Essayer le site en live](https://pierre-pellegrino.github.io/Gaming-Website)
 
@@ -23,7 +24,12 @@ Projet découverte de npm et Webpack.
     - Développeur
     - Éditeur
     - Genre (Aventure, Action...)
-- Affichage d'informations détaillées sur un jeu en cliquant sur son titre
+- Affichage d'informations détaillées sur un jeu en cliquant sur son titre :
+    - Informations générales (date de sortie, développeurs, éditeurs...)
+    - Stores sur lesquels l'acheter
+    - Captures d'écran
+    - Trailers vidéo
+    - Jeux similaires basés sur le genre du jeu
 - Affichage responsive mobile / tablette / grand écran
 
 
